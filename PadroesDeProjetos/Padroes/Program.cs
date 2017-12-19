@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Padroes
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Factory.Factory factory = new Factory.Factory();
+            Abstract.Abstract abstrac = new Abstract.Abstract();
+
+            Console.ReadKey();
         }
     }
 }

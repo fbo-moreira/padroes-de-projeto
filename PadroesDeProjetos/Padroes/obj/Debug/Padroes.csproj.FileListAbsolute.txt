@@ -1,1 +1,7 @@
 C:\__Projetos\git-fbo.moreiras\hm-scrapping\PadroesDeProjetos\Padroes\bin\Debug\Padroes.exe.config
+C:\Users\fabiom\Documents\GitHub\padroes-de-projeto\PadroesDeProjetos\Padroes\bin\Debug\Padroes.exe.config
+C:\Users\fabiom\Documents\GitHub\padroes-de-projeto\PadroesDeProjetos\Padroes\bin\Debug\Padroes.exe
+C:\Users\fabiom\Documents\GitHub\padroes-de-projeto\PadroesDeProjetos\Padroes\bin\Debug\Padroes.pdb
+C:\Users\fabiom\Documents\GitHub\padroes-de-projeto\PadroesDeProjetos\Padroes\obj\Debug\Padroes.csprojResolveAssemblyReference.cache
+C:\Users\fabiom\Documents\GitHub\padroes-de-projeto\PadroesDeProjetos\Padroes\obj\Debug\Padroes.exe
+C:\Users\fabiom\Documents\GitHub\padroes-de-projeto\PadroesDeProjetos\Padroes\obj\Debug\Padroes.pdb
